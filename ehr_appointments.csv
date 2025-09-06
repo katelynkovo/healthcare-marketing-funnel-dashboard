@@ -1,0 +1,419 @@
+appointment_id,patient_id,appointment_date,service_line,appointment_type,outcome,appointment_source,campaign_id,prior_no_shows_12mo,age,sex,zip3
+AHJKWBJPC,POYC3RWQM,2025-05-01,Endocrinology,New,Completed,Campaign,CV0DSZRK6,0,16,M,541
+ALMSP94RW,P153SFLSE,2024-09-29,Endocrinology,New,Completed,Campaign,CV0DSZRK6,0,38,M,537
+AGKG5KHL1,PW9HEYCE4,2025-03-26,Primary Care,Follow-up,Completed,Campaign,CV0DSZRK6,0,50,F,539
+ACRHM22SN,P8P6FVDHR,2024-10-04,Endocrinology,New,Completed,Campaign,CV0DSZRK6,1,35,M,535
+AJU9F51NI,PQI2CLP81,2025-04-15,Orthopedics,New,Completed,Campaign,CV0DSZRK6,0,48,F,535
+A4EUBYGS0,PYP04K43S,2025-04-09,Dermatology,New,Completed,Campaign,CV0DSZRK6,0,28,F,537
+AJX9AMSM5,PKKZMPJRH,2025-02-15,Primary Care,New,Completed,Campaign,CV0DSZRK6,0,17,M,535
+AR7GOKLVA,PLJEFY3ZB,2025-06-26,Orthopedics,New,Completed,Campaign,CV0DSZRK6,0,52,F,535
+A2UHTJPK4,POQW9JA2M,2025-05-06,Primary Care,New,Completed,Campaign,CV0DSZRK6,0,41,F,541
+AW0KQ8SJQ,PR1NECQOR,2025-06-09,Dermatology,New,Completed,Campaign,CV0DSZRK6,0,67,M,543
+AONTQX45J,P92TP6QAQ,2025-04-25,Primary Care,Follow-up,Completed,Campaign,CV0DSZRK6,0,43,F,541
+AOQYNIT38,PFHRXJPT2,2025-01-31,Pediatrics,New,Completed,Campaign,CV0DSZRK6,1,23,F,537
+ACX5DNSVB,P9S3W563B,2025-07-25,Primary Care,New,Completed,Campaign,CV0DSZRK6,0,37,F,535
+ACQ7G4ASM,POKEP7Y6W,2025-06-03,Primary Care,New,Completed,Campaign,CV0DSZRK6,0,52,F,535
+AZX4NKIO5,PUIJNWPAY,2024-11-04,Endocrinology,Follow-up,Completed,Campaign,CILCG6FAR,0,41,F,539
+AB6IIJPSH,P79460KHF,2025-01-12,Primary Care,New,Completed,Campaign,CILCG6FAR,1,36,F,537
+AOXXAOZ5E,P08UHBXLB,2025-03-14,Endocrinology,New,Cancelled,Campaign,CILCG6FAR,0,22,F,539
+A7GGO46X1,PYP04K43S,2025-04-20,Orthopedics,Follow-up,Completed,Campaign,CILCG6FAR,0,28,F,537
+AW1QXPH1Y,P2ELALQ26,2024-12-22,Dermatology,New,Completed,Campaign,CILCG6FAR,0,16,F,545
+A3BQHOK3Z,PXYJOA21A,2025-01-15,Dermatology,New,Completed,Campaign,CILCG6FAR,0,17,F,541
+AY5SRO0L9,PNZ3A8V4X,2025-04-21,Orthopedics,New,Completed,Campaign,CILCG6FAR,1,63,M,537
+ALAYKE3ZC,P7PQ4DDV2,2025-06-14,Cardiology,New,Completed,Campaign,CILCG6FAR,0,36,F,541
+AXU11TO0B,P7OQ2ZDO7,2024-08-11,Orthopedics,New,Completed,Campaign,CILCG6FAR,0,23,M,545
+AOGCC1U86,PG983AMB3,2025-02-04,Dermatology,New,Completed,Campaign,CILCG6FAR,1,57,M,535
+AAG3U1SWY,P8TV4REAS,2025-08-11,Cardiology,Follow-up,Completed,Campaign,CILCG6FAR,0,71,F,535
+AUTFEFZ81,P9PTK4GC4,2024-11-11,Primary Care,New,Completed,Campaign,CILCG6FAR,0,45,Unknown,543
+A1ID07T3L,PXJN6FOKZ,2025-05-10,Primary Care,New,Completed,Campaign,CILCG6FAR,0,44,F,545
+AJOKBZVYX,PXFGCAQVK,2024-09-29,Oncology,New,No-Show,Campaign,CILCG6FAR,1,37,M,537
+A9D18K9VA,PASIFPWIO,2025-07-31,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,46,M,537
+AK1VPANGW,PE64SKBCB,2025-03-03,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,28,M,537
+A3PAJVF9I,PCCPRHVLZ,2025-06-23,Pediatrics,New,Completed,Campaign,CMGJCY4V8,0,65,F,539
+A60K23Z2Y,P5TGSQ7AI,2025-07-18,Primary Care,New,No-Show,Campaign,CMGJCY4V8,1,52,M,537
+A3C0EQ4AW,PQVINDH4S,2025-04-27,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,30,F,537
+A8JHE5S51,P153SFLSE,2024-12-30,Pediatrics,New,Completed,Campaign,CMGJCY4V8,0,38,M,537
+A7DXJ17X6,PZ7CN0EQW,2024-09-24,Oncology,New,Completed,Campaign,CMGJCY4V8,0,87,F,537
+AXDA71EBV,PJL6L91F4,2025-06-14,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,87,M,537
+AFWB5HSTS,POB5APO4L,2025-05-19,Primary Care,New,No-Show,Campaign,CMGJCY4V8,0,66,F,535
+A68CFFF8T,PX7EEDTJV,2024-10-24,Primary Care,New,No-Show,Campaign,CMGJCY4V8,0,61,M,545
+AX134L8XA,PTB74RS7G,2025-01-12,Orthopedics,Follow-up,Completed,Campaign,CMGJCY4V8,0,53,M,537
+AFSUMUXQJ,PH2M5ZJA8,2024-10-29,Orthopedics,New,Completed,Campaign,CMGJCY4V8,1,0,M,539
+ACTPVEV64,PCVS4F8CG,2024-10-02,Primary Care,New,Completed,Campaign,CMGJCY4V8,1,35,F,535
+AGROABEAW,P6G5G79OR,2025-08-12,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,33,M,541
+AQW29PY5K,PK6Z0HR9T,2024-12-18,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,70,M,545
+AH2NXXMS3,PVFUA9BQ1,2025-05-22,Endocrinology,Follow-up,Completed,Campaign,CMGJCY4V8,0,45,M,539
+ARAG0KXXK,P4T60PLOZ,2025-06-18,Dermatology,New,Completed,Campaign,CMGJCY4V8,0,36,F,535
+AXNOAD78Q,P46AYN2D7,2024-10-30,Cardiology,New,Completed,Campaign,CMGJCY4V8,0,80,M,537
+AIG6UO3ZI,P2ELALQ26,2024-11-13,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,16,F,545
+AN1A7KNE1,PPFDRWB2S,2024-09-10,Oncology,New,Completed,Campaign,CMGJCY4V8,0,21,M,537
+AYBMZPSCT,PLX6DUT07,2024-11-12,Oncology,Follow-up,Completed,Campaign,CMGJCY4V8,0,27,F,535
+APN7Y853J,P9BP4M18O,2025-03-12,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,28,M,539
+A5SFMZQRS,PP6MKT7S1,2025-06-16,Oncology,Follow-up,Cancelled,Campaign,CMGJCY4V8,0,29,F,535
+AJZO98IBO,PVBGR8W2M,2025-03-03,Endocrinology,Follow-up,Completed,Campaign,CMGJCY4V8,1,33,F,537
+AQ18OVEUU,PMOXSFH4G,2025-06-20,Primary Care,Follow-up,Completed,Campaign,CMGJCY4V8,0,56,F,535
+AR656EBJV,PASIFPWIO,2025-07-18,Endocrinology,New,Completed,Campaign,CMGJCY4V8,0,46,M,537
+ANFOWAPCQ,PRWK8R2YK,2025-03-10,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,65,M,541
+A7VG6N968,POGWLACOL,2024-10-04,Orthopedics,Follow-up,Completed,Campaign,CMGJCY4V8,0,55,F,535
+AXF6V8TH1,PLLWB7SJW,2024-10-29,Primary Care,Follow-up,Completed,Campaign,CMGJCY4V8,0,52,F,537
+A05OSZQG6,PB0OIH5CS,2025-07-16,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,78,M,535
+APKISB836,P9E7EOBJL,2025-05-25,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,59,M,537
+A3DHTG1D9,PB5JFYSYZ,2024-11-15,Orthopedics,New,No-Show,Campaign,CMGJCY4V8,1,54,M,535
+AOB6KB9Z7,P63YK03O4,2025-03-04,Dermatology,New,Completed,Campaign,CMGJCY4V8,0,42,M,535
+AFW0C20X4,PFRML29Q2,2024-09-16,Dermatology,New,Completed,Campaign,CMGJCY4V8,1,48,M,537
+A50UHEH3R,P2XG8P6BE,2024-12-01,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,49,F,535
+AFWTEVTX3,P79460KHF,2025-07-26,Primary Care,New,Completed,Campaign,CMGJCY4V8,1,36,F,537
+ANF27E6L8,PDFOVD79C,2024-11-11,Dermatology,New,Completed,Campaign,CMGJCY4V8,0,35,F,535
+AXCGMIURP,POM5IGQPK,2024-12-09,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,20,F,537
+AV2WJ6O6U,PJUIS2GY9,2025-05-14,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,85,M,537
+A9179B9NT,PN8LPY857,2025-01-08,Endocrinology,New,Completed,Campaign,CMGJCY4V8,0,47,F,537
+A5DXI7QOD,P4T60PLOZ,2025-02-16,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,36,F,535
+ASU9F16X1,PE63LBQGU,2025-05-16,Endocrinology,Follow-up,Completed,Campaign,CMGJCY4V8,0,28,F,537
+A4AI7REFI,PCD5GLQJ5,2025-04-17,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,61,F,537
+ACGXLOARR,PDYMS1MWN,2025-03-08,Orthopedics,New,No-Show,Campaign,CMGJCY4V8,1,57,F,541
+AXC9MIDUX,PE088O98B,2025-07-01,Primary Care,New,Completed,Campaign,CMGJCY4V8,0,46,F,535
+A8FMW4VCH,PA6S5ZXQO,2024-09-18,Orthopedics,New,Completed,Campaign,CMGJCY4V8,0,75,M,535
+ARHBKGK9J,PD05JH2MK,2025-03-11,Cardiology,Follow-up,Completed,Campaign,CMGJCY4V8,0,71,F,539
+AQTAJPP8O,PTP7BD4W1,2025-04-16,Endocrinology,Follow-up,Completed,Campaign,CMGJCY4V8,1,43,M,539
+AEI975YQL,PWHVNZH13,2025-01-27,Endocrinology,Follow-up,Completed,Campaign,CURID3U94,0,52,F,539
+A1V2W9Y49,PV3DR2H2P,2024-09-08,Primary Care,New,Completed,Campaign,CURID3U94,0,52,M,545
+ADZ8FTMJN,PQQYZQII4,2024-08-13,Primary Care,Follow-up,Completed,Campaign,CURID3U94,0,41,M,537
+A8B3UMAM0,PN8LPY857,2024-11-11,Primary Care,New,Completed,Campaign,CURID3U94,0,47,F,537
+A03L4JZWY,PTGXNX4SN,2025-06-01,Pediatrics,New,Completed,Campaign,CURID3U94,0,46,F,539
+AIX7BRRBA,P9MQVAYXA,2025-07-15,Dermatology,Follow-up,Completed,Campaign,CURID3U94,0,39,F,545
+AI3AL6EJA,P0YKNFU84,2024-10-02,Primary Care,Follow-up,Completed,Campaign,CURID3U94,0,68,F,539
+A1V2TG2AH,PYX9TRFLQ,2024-08-03,Pediatrics,New,Completed,Campaign,CURID3U94,2,59,F,535
+AN110BS6T,PW6OZX25Q,2024-09-06,Oncology,New,Completed,Campaign,CURID3U94,0,0,F,543
+AO8WYAQTF,P8OGA0X7Z,2024-10-30,Primary Care,Follow-up,Completed,Campaign,CURID3U94,0,39,F,535
+ALVM8NYZH,PK2L0D1B4,2025-05-19,Cardiology,Follow-up,Completed,Campaign,CURID3U94,2,65,F,539
+AHIZEBG9K,PSXKJKMPL,2025-02-11,Pediatrics,New,Completed,Campaign,CURID3U94,0,64,F,541
+A4SSB1PBZ,P9TZE5R5U,2025-07-19,Oncology,New,Completed,Campaign,CURID3U94,0,42,F,537
+AVR8VBYEZ,PPTKEZJSS,2024-10-13,Primary Care,New,Completed,Campaign,CURID3U94,1,80,M,535
+AD43W95CH,P15IKPQAH,2024-09-06,Dermatology,New,Completed,Campaign,CURID3U94,0,50,Unknown,537
+A4FODMJMB,PF1HX6ZDC,2025-05-08,Primary Care,New,Completed,Campaign,CURID3U94,0,24,M,541
+AFOGEVOKQ,PEI3ZRRHF,2025-01-29,Pediatrics,Follow-up,Completed,Campaign,CURID3U94,0,30,M,537
+AY9FLVQAR,PUJV6OH9S,2025-05-22,Dermatology,New,Completed,Campaign,CSGFDK0Q0,0,38,M,539
+AJZK08CT6,PEGI3QUPX,2024-11-02,Orthopedics,New,Completed,Campaign,CSGFDK0Q0,0,51,M,535
+A176C1K03,PQVDK6DRN,2024-12-18,Orthopedics,New,Completed,Campaign,CSGFDK0Q0,0,64,F,535
+AU0UP229E,PW5WFCPKJ,2025-07-01,Pediatrics,Follow-up,Completed,Campaign,CSGFDK0Q0,0,51,F,535
+AOIZU7N9E,P8VHMEWCJ,2025-01-14,Primary Care,Follow-up,Completed,Campaign,CSGFDK0Q0,0,38,M,545
+AN0KERTQH,PYX9TRFLQ,2025-04-22,Oncology,Follow-up,Completed,Campaign,CSGFDK0Q0,2,59,F,535
+ANOL3OBOP,PDHYLURTP,2024-08-22,Primary Care,Follow-up,Completed,Campaign,CSGFDK0Q0,0,48,F,537
+AAB05DWJA,PQGM5V2WW,2024-12-03,Dermatology,New,Completed,Campaign,CSGFDK0Q0,0,44,F,539
+ATE4VV9C0,PCNBH6NQQ,2025-05-04,Primary Care,Follow-up,Completed,Campaign,CSGFDK0Q0,0,76,F,535
+AXFEVMY1Q,PV78HU7F0,2025-04-12,Dermatology,New,Completed,Campaign,CSGFDK0Q0,0,55,F,535
+ANQVIEXGO,PG8Q3GCG1,2025-04-21,Pediatrics,New,Completed,Campaign,CSGFDK0Q0,0,56,F,537
+ABZPE8M3R,PMOXSFH4G,2025-01-31,Primary Care,New,Completed,Campaign,CSGFDK0Q0,0,56,F,535
+AKL39VEL0,PGOK01TNZ,2024-09-28,Primary Care,New,Completed,Campaign,CSGFDK0Q0,0,39,M,539
+A8KKLSEAU,PEHWHG0U4,2025-03-20,Orthopedics,New,No-Show,Campaign,CSGFDK0Q0,0,50,F,537
+AZVMMH541,P4MPYO2TL,2024-09-17,Dermatology,New,Completed,Campaign,CSGFDK0Q0,0,50,M,539
+AOO5VYFRR,P2P2TIXC7,2025-08-07,Endocrinology,New,Completed,Campaign,CSGFDK0Q0,0,79,M,535
+ALOA8O34L,PW9MYYOKE,2025-06-12,Orthopedics,Follow-up,Completed,Campaign,CSGFDK0Q0,0,53,F,535
+APQK5FP7A,PME8F8409,2025-05-02,Pediatrics,Follow-up,Completed,Campaign,CSGFDK0Q0,0,67,F,537
+AH2CSANHA,P874FRHOC,2024-09-24,Dermatology,New,Completed,Campaign,CSGFDK0Q0,1,48,M,537
+APYWDRDPM,PJ84RX6PR,2025-08-11,Oncology,New,Completed,Campaign,CSGFDK0Q0,0,49,F,539
+APCEJCILP,P2LNGIXMC,2024-11-30,Cardiology,New,Completed,Campaign,CSGFDK0Q0,0,62,F,535
+AJZ80ND3Y,PE27ZEOQG,2025-08-17,Primary Care,Follow-up,Completed,Campaign,CSGFDK0Q0,0,45,M,539
+A9QB0E7CX,P9YECAZRP,2024-11-06,Orthopedics,New,Completed,Campaign,CSGFDK0Q0,0,43,M,545
+ASUO874OH,PEREV361X,2024-12-20,Cardiology,New,Completed,Campaign,CSGFDK0Q0,1,63,M,543
+AL5THLVJY,PPKIANOUO,2025-01-27,Cardiology,Follow-up,No-Show,Campaign,CSGFDK0Q0,0,32,F,537
+AQTAYBGI0,PE8ZNA8NZ,2024-09-24,Oncology,Follow-up,Completed,Campaign,CSGFDK0Q0,0,62,F,541
+ARR0TIAXU,PK9TR74QG,2025-03-15,Orthopedics,Follow-up,Completed,Campaign,CSGFDK0Q0,0,33,F,539
+AFVPIG3YV,PGFLIJI18,2025-08-21,Primary Care,New,Completed,Campaign,CSGFDK0Q0,0,34,M,535
+AR2EU4KB5,P3E54N6O9,2025-04-09,Orthopedics,New,Completed,Campaign,CSGFDK0Q0,0,48,M,541
+A7L1376QW,POUHYLU6K,2025-06-15,Oncology,Follow-up,Completed,Campaign,CSGFDK0Q0,0,92,F,545
+AVGFRI7FZ,PDV37IC0L,2025-07-17,Pediatrics,New,Completed,Campaign,C9JRNAMZ6,0,45,M,545
+A5XBIGUJ9,PXVA1NKBT,2025-05-06,Pediatrics,New,Completed,Campaign,C9JRNAMZ6,0,52,M,535
+ACWI2SKHK,P8RIEC4D1,2024-09-30,Orthopedics,Follow-up,Completed,Campaign,C9JRNAMZ6,1,63,M,539
+AXVS6AYLL,POMUWAHK2,2025-02-26,Primary Care,New,Cancelled,Campaign,C9JRNAMZ6,0,44,M,541
+AD4YEO6PP,PH55HEWLG,2024-12-09,Primary Care,New,Completed,Campaign,C9JRNAMZ6,0,39,M,537
+AYWH8EA32,PPBHSAHXT,2025-07-23,Endocrinology,New,Completed,Campaign,C9JRNAMZ6,0,44,M,539
+A9HF1PW26,P7Y2ITL8N,2025-06-27,Orthopedics,New,Completed,Campaign,C9JRNAMZ6,0,37,F,537
+ARQH7O0ZB,PH2M5ZJA8,2025-01-16,Orthopedics,New,No-Show,Campaign,C9JRNAMZ6,1,0,M,539
+AO70B2AUB,PBMAE38SR,2025-05-19,Endocrinology,New,Completed,Campaign,C9JRNAMZ6,0,57,M,537
+ANBWGSKWD,P085RNTDR,2024-11-12,Dermatology,New,No-Show,Campaign,C9JRNAMZ6,0,85,M,535
+A3X2KB6JY,PUY0ZIA9A,2025-01-08,Endocrinology,New,No-Show,Campaign,C9JRNAMZ6,1,80,M,537
+A5R1SPPN7,P94SZ2KUU,2024-11-25,Cardiology,New,Completed,Campaign,C9JRNAMZ6,0,57,Other,537
+A4PF4IO2X,PLPVOWCP7,2025-07-08,Dermatology,New,Completed,Campaign,C9JRNAMZ6,0,65,F,535
+AM43O8JOC,PTHSJR0FZ,2024-12-04,Endocrinology,New,Completed,Campaign,C146VEY0A,0,31,M,541
+AUJVXHSHV,PY4X41DNT,2025-07-21,Dermatology,Follow-up,No-Show,Campaign,C146VEY0A,1,38,F,539
+A1Y04Z4VC,PU8IOGXPB,2025-03-11,Endocrinology,New,Completed,Campaign,C146VEY0A,1,62,M,539
+AVZPVWLL5,PFFCXHGNZ,2025-05-18,Primary Care,New,Completed,Campaign,C146VEY0A,0,47,M,537
+AV2H31PHE,POI5J8YIT,2025-08-12,Dermatology,New,Completed,Campaign,C146VEY0A,0,71,M,537
+AIV6DDZV7,PV9IBWGT2,2025-04-25,Primary Care,New,Completed,Campaign,C146VEY0A,0,54,M,541
+ATXX6LK7I,PYV37DIA5,2025-06-28,Primary Care,New,Completed,Campaign,C146VEY0A,0,60,F,537
+AAZGQ095E,PK0VM59M6,2024-10-12,Dermatology,Follow-up,Completed,Campaign,C146VEY0A,0,67,F,543
+AGVT67K37,PG983AMB3,2025-06-26,Pediatrics,New,Completed,Campaign,C146VEY0A,1,57,M,535
+AFOQSR41S,P6PRR7MZA,2024-12-26,Orthopedics,New,Completed,Campaign,C94XFRI09,0,35,M,537
+A6EQXXCX9,PY620N8TT,2024-09-06,Primary Care,Follow-up,Completed,Campaign,C94XFRI09,1,76,M,535
+AKNBZ9H0U,PD0TGSIWG,2024-12-28,Orthopedics,Follow-up,Completed,Campaign,C94XFRI09,0,40,M,535
+ANL0UT5JA,P5IAN8ND7,2025-02-04,Orthopedics,New,Completed,Campaign,C94XFRI09,0,58,F,535
+AYSYWU2GY,PZWFFHHCM,2025-06-11,Primary Care,New,Completed,Campaign,C94XFRI09,0,42,F,535
+AIAW7FOE4,PDTBH55RB,2025-02-27,Oncology,New,Completed,Campaign,C94XFRI09,0,72,M,535
+AC5PNEDL6,PCHO3XJVO,2024-09-20,Cardiology,New,Completed,Campaign,C94XFRI09,1,50,F,535
+A0YOKR78L,PJ3MUURMY,2025-06-23,Cardiology,New,Completed,Campaign,C94XFRI09,0,58,Other,539
+A1MRD8JPA,P5IAN8ND7,2025-06-02,Primary Care,New,Completed,Campaign,C94XFRI09,0,58,F,535
+ABSM2OTEY,PTHSJR0FZ,2025-07-26,Orthopedics,New,Completed,Campaign,C94XFRI09,0,31,M,541
+AMOMLF65J,PEHLH07JR,2025-03-10,Cardiology,New,Completed,Campaign,C94XFRI09,0,61,Other,537
+A1VRKF4HT,POB5APO4L,2025-03-14,Endocrinology,New,Completed,Campaign,C94XFRI09,0,66,F,535
+A69A14350,PEQE5158O,2025-02-22,Dermatology,New,Completed,Campaign,C94XFRI09,0,42,M,537
+AQ8OBW3J6,P1T2TALA7,2025-05-09,Orthopedics,New,Completed,Campaign,C94XFRI09,0,36,F,537
+ASOG2LBWT,PYT8QZPKY,2025-03-09,Pediatrics,Follow-up,Completed,Campaign,C94XFRI09,0,43,M,537
+ABV50HYA1,P9MX2X18H,2025-02-11,Orthopedics,New,Completed,Campaign,C94XFRI09,0,70,F,535
+AW3RR43UR,PUY0ZIA9A,2025-02-09,Cardiology,New,No-Show,Organic,,1,80,M,537
+A4MFJHOJA,PY3RZTPLC,2025-07-21,Pediatrics,Follow-up,Completed,Referral,,0,36,F,537
+ALBH1NYKS,PXGMPW5D3,2025-05-16,Endocrinology,Follow-up,No-Show,Organic,,1,14,F,543
+A9URXIJAM,PPVS7HZIO,2025-01-15,Primary Care,Follow-up,Completed,Organic,,0,35,M,537
+A31BXPGWJ,PDG1WJUII,2025-02-06,Primary Care,Follow-up,Cancelled,Referral,,0,62,F,535
+AX3BID6V1,PRXDOUADV,2024-11-21,Pediatrics,Follow-up,Completed,Referral,,0,45,F,537
+ALK4AGLBD,PZIGIKQWJ,2024-09-06,Primary Care,New,Completed,Organic,,0,46,F,537
+A0XQTQV8E,PQ5V7C6S5,2024-10-06,Orthopedics,Follow-up,Completed,Organic,,1,26,M,537
+ALSPJ6SFA,PQWNRHZN4,2024-10-28,Pediatrics,New,Completed,Referral,,0,47,M,541
+AS04LX5Z3,PZWFFHHCM,2024-09-01,Primary Care,Follow-up,Completed,Referral,,0,42,F,535
+AJUFXH8P0,PQUNUE7A3,2024-10-07,Cardiology,New,Completed,Organic,,0,45,M,545
+AMTZ1FPR7,PGOK01TNZ,2025-03-11,Primary Care,Follow-up,Completed,Referral,,0,39,M,539
+AH4PZNGVX,P4U9BXF44,2024-12-15,Primary Care,Follow-up,Completed,Organic,,0,75,F,537
+AXYN9T61Q,PAIETDN1T,2025-06-07,Orthopedics,Follow-up,Completed,Referral,,1,21,M,539
+ASKFNNMLW,P4ISOTN9U,2025-03-08,Endocrinology,New,Completed,Referral,,0,45,M,537
+AVAPFE0HR,PUUG95RLR,2025-04-05,Orthopedics,Follow-up,Completed,Referral,,0,58,Unknown,539
+AQSU95IYU,PQI2CLP81,2025-04-28,Cardiology,New,Completed,Referral,,0,48,F,535
+AB31P35ZW,PRIUU9K9X,2025-07-17,Dermatology,Follow-up,Completed,Referral,,0,47,M,543
+AQYT39UZC,PKBP2QD6V,2025-01-20,Endocrinology,Follow-up,Completed,Organic,,0,61,F,535
+A2PLHS95T,PL28R5P03,2025-01-25,Pediatrics,New,Completed,Referral,,0,48,M,543
+AWBQHSMCR,PLB25485H,2025-06-03,Cardiology,New,Cancelled,Organic,,1,37,F,535
+ACUN91WG3,PLORXDTG5,2025-07-29,Primary Care,Follow-up,No-Show,Referral,,0,35,F,541
+AHJSOS58Y,PJTGQ01TE,2024-09-01,Primary Care,Follow-up,Completed,Organic,,0,48,M,537
+AOFVYG72V,POOP767J2,2025-05-06,Primary Care,Follow-up,No-Show,Organic,,1,29,M,535
+AWMD5TFU2,PHUKWQVR1,2025-04-01,Primary Care,New,Completed,Organic,,0,50,F,537
+ASNX1SE3X,PCSLQC3C5,2024-11-21,Cardiology,Follow-up,Completed,Organic,,0,33,F,537
+AR6N18BEQ,PQGM5V2WW,2025-01-09,Pediatrics,New,Completed,Organic,,0,44,F,539
+AERFTNVIJ,PN5E0EV6X,2025-01-31,Orthopedics,Follow-up,Completed,Referral,,0,73,F,537
+AZX4XVQBZ,PXPNMJQY3,2024-08-20,Primary Care,Follow-up,Completed,Organic,,0,46,F,539
+ABRQW5259,PZEEQNSN2,2025-04-03,Cardiology,Follow-up,Completed,Referral,,0,26,M,537
+AGMQ2P014,P07S387J5,2025-03-04,Primary Care,Follow-up,Completed,Referral,,0,45,M,543
+AX5DLWY1P,PPTKEZJSS,2024-08-12,Oncology,New,Completed,Organic,,1,80,M,535
+A6MXSWY0S,PDG1WJUII,2025-02-12,Orthopedics,Follow-up,Completed,Organic,,0,62,F,535
+AZKBNSH8L,PASIFPWIO,2024-08-09,Pediatrics,Follow-up,Completed,Organic,,0,46,M,537
+ALRB7DFIX,P961J88QE,2024-09-06,Dermatology,Follow-up,Completed,Organic,,0,37,M,543
+ALBO9EWO7,P8P6FVDHR,2024-12-27,Cardiology,New,No-Show,Referral,,1,35,M,535
+ATCBW5QQB,P3ZKWDEEK,2024-08-06,Pediatrics,New,Completed,Referral,,0,31,M,537
+A5I92WMSJ,P21B07G2R,2025-04-28,Dermatology,Follow-up,Completed,Organic,,2,23,M,543
+A9UK693P4,PE13N3BZT,2025-04-05,Cardiology,New,No-Show,Referral,,0,69,M,539
+A83CHELHR,PP6MKT7S1,2024-09-21,Primary Care,Follow-up,Completed,Referral,,0,29,F,535
+AX5M8NZF6,PHT2XZ52O,2025-01-14,Pediatrics,Follow-up,Completed,Referral,,0,58,F,537
+AYXIS81HB,PF90KM3TZ,2024-12-20,Primary Care,Follow-up,Completed,Organic,,0,58,M,537
+AUDU7XX9I,PTGV44FTJ,2025-06-05,Dermatology,New,Completed,Referral,,0,17,F,537
+AGD40CM0T,P8T922D0N,2025-02-08,Pediatrics,Follow-up,Completed,Organic,,0,45,M,543
+AU2AQHKNQ,PROYR6CCV,2025-06-22,Orthopedics,New,No-Show,Organic,,0,27,F,537
+AJGE0UTX7,PXPHX2KBV,2025-01-09,Pediatrics,Follow-up,Completed,Organic,,1,45,M,543
+AR07VPPM8,PS1K9YE9O,2024-10-25,Primary Care,New,No-Show,Referral,,0,56,F,537
+A6CXOTX76,PVF0JQQNV,2025-02-06,Endocrinology,New,Completed,Referral,,0,62,M,537
+AD2KJRZCV,P132AN417,2024-11-26,Primary Care,Follow-up,Completed,Referral,,0,73,M,535
+A3HRQA9VZ,PA08EKXDR,2025-01-08,Primary Care,New,Completed,Organic,,0,48,M,535
+AEOX981BF,POFN1R4KZ,2024-09-15,Primary Care,Follow-up,Completed,Referral,,0,84,M,539
+A8W80UXN3,PPAC56T4U,2024-08-16,Endocrinology,Follow-up,Completed,Organic,,0,11,F,535
+AE6OQE09O,PFHRXJPT2,2025-02-14,Primary Care,New,Completed,Referral,,1,23,F,537
+A8A906K37,PLSLAYM0W,2024-09-14,Dermatology,New,Completed,Referral,,0,47,F,541
+AE4EY9JVB,P132AN417,2025-01-31,Dermatology,Follow-up,Completed,Organic,,0,73,M,535
+A6HPPHPM0,P0LVSNUJZ,2025-07-25,Orthopedics,Follow-up,Completed,Organic,,0,33,F,537
+AD5WLWJOJ,PYO4RCB1K,2025-06-26,Cardiology,Follow-up,Cancelled,Organic,,0,46,M,537
+AAFI4CKOM,P1G463SDY,2024-09-19,Primary Care,New,Completed,Organic,,0,47,F,537
+A5F33DNRE,PXTXMGTT0,2025-06-12,Dermatology,Follow-up,Completed,Organic,,0,24,F,537
+AHU2M6NWM,PJCY127H6,2025-05-28,Primary Care,New,Completed,Organic,,0,59,M,537
+AUFGYN53K,PDPDXUJJC,2025-06-03,Primary Care,New,No-Show,Organic,,0,64,F,537
+ABH423L90,P3XLRFCD6,2025-04-14,Endocrinology,New,Completed,Referral,,0,55,F,535
+AMCZH7827,PTMY91OTK,2025-02-03,Orthopedics,Follow-up,Completed,Referral,,1,77,F,537
+AJTRG6IAQ,PVGWW4FYB,2025-07-17,Orthopedics,New,Cancelled,Organic,,0,32,F,543
+AIIJNN0DY,PBHAIIWI0,2025-07-24,Primary Care,Follow-up,Completed,Referral,,0,53,M,537
+AK3FDJ2QS,P2RNTJLMZ,2025-06-09,Primary Care,New,No-Show,Referral,,1,35,M,537
+AVLC5AALI,PGMD478MF,2024-12-15,Primary Care,New,Completed,Organic,,1,36,F,541
+ARPDGZ2SC,P2XCB3YYM,2025-05-10,Primary Care,New,Completed,Referral,,0,69,M,537
+A0T8DHDDC,PXVA1NKBT,2025-06-26,Cardiology,New,Completed,Referral,,0,52,M,535
+AIROW8A2C,PLDC08FC0,2024-12-10,Endocrinology,New,Completed,Referral,,0,51,F,543
+AQBYWLKLQ,P9AAWE429,2025-03-15,Primary Care,Follow-up,Completed,Organic,,0,28,F,541
+ABXXA53XI,PA3IDY3C7,2025-02-21,Cardiology,New,Completed,Organic,,1,60,F,537
+A3C7G0ABG,P9BP4M18O,2025-05-20,Primary Care,New,No-Show,Organic,,0,28,M,539
+AB8PMX76A,P6SM5RRVS,2024-10-23,Orthopedics,Follow-up,Completed,Organic,,0,73,F,537
+AL3G0D2AO,PJ6VV8SUO,2025-05-10,Pediatrics,New,Completed,Referral,,0,74,M,543
+ABLJ0UA9O,PA27F8LWV,2025-01-28,Pediatrics,Follow-up,Completed,Organic,,0,42,Other,543
+A6H0FEEB9,PH62MYZ9V,2024-11-24,Orthopedics,Follow-up,Completed,Organic,,0,19,M,535
+AI9EXBNXD,PFFZ8Q4VH,2025-02-27,Orthopedics,New,Cancelled,Referral,,0,51,M,537
+AXWBC1JLI,P6IT1EKKH,2025-07-03,Primary Care,Follow-up,Completed,Organic,,0,39,F,537
+ADIGGN92F,PZL15S74N,2025-06-01,Orthopedics,Follow-up,Completed,Organic,,1,67,F,537
+A0J3OKEKS,P4C6P1LLH,2025-07-19,Cardiology,Follow-up,Completed,Organic,,0,28,F,539
+AK2VPAJSP,P6APFXI5N,2025-01-22,Dermatology,Follow-up,Completed,Referral,,1,64,F,539
+AJ00VMPQY,PFEL6246H,2025-07-29,Orthopedics,New,Completed,Referral,,0,22,M,545
+AW5IXTWGQ,PQZCUCTSU,2024-12-23,Pediatrics,Follow-up,Cancelled,Organic,,0,34,M,535
+AIO1MGN8N,P86GVGT2E,2025-06-21,Pediatrics,Follow-up,Completed,Organic,,0,24,M,541
+AL4J1OF25,PU6HC36KO,2025-03-27,Primary Care,New,Completed,Referral,,0,30,M,537
+ASWOKJ2NI,PNZ1UDBFW,2025-03-02,Orthopedics,New,Completed,Referral,,0,49,F,539
+A4ZF5187O,P8JPR7VGR,2024-10-31,Pediatrics,New,Completed,Referral,,0,55,F,545
+AZYMUZZO1,P4YK1B3D5,2025-01-23,Cardiology,Follow-up,Completed,Organic,,0,36,M,535
+A5U50FH61,P448N7ODK,2025-07-22,Endocrinology,New,Completed,Referral,,0,46,M,543
+AN7FDRFQX,P11BD2SCE,2024-08-11,Oncology,New,Completed,Organic,,1,31,F,545
+A780TIJ7K,PIMJ70E3P,2025-03-08,Cardiology,New,Cancelled,Referral,,0,37,F,535
+ATSPYA2OT,PQI2CLP81,2024-10-02,Orthopedics,New,Completed,Organic,,0,48,F,535
+AKQXW112C,PDDAFS1IY,2024-10-09,Endocrinology,Follow-up,Completed,Referral,,0,38,F,537
+AD4YSD6SH,PHIE9EDE1,2025-01-27,Primary Care,Follow-up,Completed,Organic,,0,67,F,545
+AQBA3RNQF,P085RNTDR,2025-01-06,Pediatrics,New,No-Show,Referral,,0,85,M,535
+A3ADTPRTZ,PFLUL1RSR,2024-09-05,Dermatology,New,Completed,Organic,,0,55,Other,543
+AUF0UE99O,PCW9YIL8S,2024-10-29,Primary Care,New,No-Show,Organic,,0,48,F,537
+AH12PGX40,PO30UBMC9,2024-09-27,Pediatrics,Follow-up,Cancelled,Referral,,0,44,F,543
+A9WNZMO7G,PLL9RZRKB,2025-01-14,Pediatrics,Follow-up,Completed,Referral,,0,24,F,543
+ADE74V6AO,P78V0BJWK,2024-08-18,Primary Care,New,Completed,Organic,,0,47,F,537
+AUSX9DXZN,PGYSPENGW,2024-11-10,Cardiology,Follow-up,Completed,Organic,,1,36,M,537
+AKQWQYO6I,P3QLX3F2X,2024-10-23,Primary Care,Follow-up,No-Show,Referral,,0,65,M,539
+ALVB8DM1A,PARAGDX5O,2024-12-06,Dermatology,Follow-up,Completed,Organic,,0,37,M,537
+AOZUJV1CI,P32ORWIXZ,2024-10-21,Primary Care,Follow-up,Completed,Referral,,1,57,M,537
+AJJRX3XHY,P1R11Q7UW,2025-06-14,Pediatrics,Follow-up,Completed,Referral,,0,50,F,541
+ATDBU2J08,PNTRFZWKX,2024-09-01,Endocrinology,Follow-up,Completed,Referral,,0,42,F,539
+A5RHCJTDA,PY3RZTPLC,2025-03-04,Primary Care,Follow-up,Completed,Referral,,0,36,F,537
+AKXVX1BL6,PKTAKPUXQ,2024-12-22,Cardiology,New,Completed,Organic,,0,14,F,539
+AF6FU547O,PIZXTNSRT,2025-05-06,Endocrinology,Follow-up,Completed,Organic,,1,40,F,539
+ATB85VIF8,P0224WK0Y,2025-02-25,Primary Care,Follow-up,Completed,Referral,,1,67,F,537
+A1J67KJFC,PREM5PUU6,2024-12-13,Primary Care,Follow-up,Cancelled,Referral,,0,37,M,541
+ALCCR9D47,PGSTQMGVU,2025-06-17,Orthopedics,New,Completed,Organic,,1,36,M,535
+AD7NC2DZD,PWLXDSC4E,2025-02-08,Primary Care,Follow-up,Completed,Organic,,0,68,F,539
+ARHEZUL4A,PELRQVSLW,2024-12-09,Oncology,Follow-up,Completed,Organic,,0,63,F,535
+AE6YA8S2D,PWLC33H8G,2024-08-24,Orthopedics,Follow-up,Completed,Referral,,0,42,M,535
+ADET4KERZ,PG585I87X,2025-05-22,Endocrinology,Follow-up,Completed,Organic,,0,43,M,535
+A1V8RSRKP,PY3RZTPLC,2025-01-05,Cardiology,Follow-up,Completed,Organic,,0,36,F,537
+AVI2C7RWE,PT8HDPWVB,2025-05-31,Orthopedics,New,Completed,Organic,,0,1,F,537
+A9EUKIFM5,PEUBFN9KR,2024-09-17,Orthopedics,New,Completed,Referral,,0,91,F,541
+ACI7HBVPX,PMVNCZTZO,2024-10-26,Primary Care,New,Completed,Organic,,0,41,M,543
+ANOJMGL1R,PK5J42OI6,2024-09-18,Primary Care,Follow-up,Completed,Referral,,1,64,F,537
+ALCFNR37Q,P4CDPQVL0,2024-09-04,Pediatrics,Follow-up,Completed,Organic,,0,34,M,543
+ATZJS6PVS,PYKL1CQ99,2024-12-04,Cardiology,Follow-up,Completed,Organic,,0,79,M,535
+A9V9BD9ZM,P06AKT7ZQ,2025-01-06,Dermatology,Follow-up,Completed,Organic,,0,52,M,535
+AQ77HNS54,P3K8A7RV4,2024-12-03,Dermatology,Follow-up,Completed,Referral,,1,49,F,535
+AGWDFO1NN,P4ORAC8CY,2025-02-03,Primary Care,Follow-up,Completed,Referral,,1,90,F,545
+AJ5RXC4XJ,PU8EL5015,2025-05-31,Primary Care,New,Completed,Referral,,0,60,F,537
+A4A3S8PGB,PVF0JQQNV,2024-08-03,Dermatology,Follow-up,Cancelled,Referral,,0,62,M,537
+AZQ35AW3O,PL28R5P03,2025-05-14,Dermatology,Follow-up,No-Show,Organic,,0,48,M,543
+AVY92DEFQ,PTHET25LZ,2024-09-02,Primary Care,Follow-up,Completed,Organic,,0,38,F,537
+AGSEM2FIT,PA3IDY3C7,2024-11-16,Primary Care,New,Completed,Organic,,1,60,F,537
+AGUKTQ5SM,PHT2XZ52O,2024-11-22,Primary Care,New,Completed,Organic,,0,58,F,537
+AVVBJB1JV,P1T2TALA7,2024-12-23,Dermatology,New,No-Show,Organic,,0,36,F,537
+AEN2Z7MB4,PR2F5T82D,2024-10-24,Primary Care,New,Completed,Referral,,0,52,F,543
+A1G877FXV,PVHDK8LW2,2025-05-10,Primary Care,New,Completed,Referral,,1,75,Other,535
+A7A7KX7MR,PX7M2MM4P,2025-04-16,Primary Care,Follow-up,Cancelled,Organic,,1,32,F,537
+A9VQIET4A,PGLH62C9T,2024-12-03,Dermatology,Follow-up,Completed,Organic,,1,55,F,537
+AKW6ZLKW5,PC4S8PNNE,2025-07-26,Endocrinology,Follow-up,Completed,Referral,,0,56,F,537
+AE11DXKU2,PRIUU9K9X,2025-01-03,Orthopedics,New,Completed,Organic,,0,47,M,543
+AK5EBDSTV,P9D31K9QM,2025-07-12,Orthopedics,Follow-up,Completed,Referral,,0,35,F,545
+AAHM9UZA9,PU0K5QZZK,2025-04-01,Oncology,Follow-up,Cancelled,Referral,,1,56,M,539
+AQVEFHX0Z,PG8NKDAT5,2024-10-01,Dermatology,Follow-up,Completed,Organic,,1,18,F,535
+AJ7IZVA3T,P6X73ZCA7,2025-04-13,Primary Care,Follow-up,No-Show,Referral,,2,66,F,539
+A862VL1TK,PP3LYEX3S,2024-09-09,Pediatrics,Follow-up,Completed,Referral,,0,32,M,541
+AU04VPWYM,PO30UBMC9,2025-02-19,Orthopedics,Follow-up,Completed,Organic,,0,44,F,543
+AFVTACBLQ,PPVS7HZIO,2025-07-08,Primary Care,Follow-up,Completed,Organic,,0,35,M,537
+AI1N6CLPD,PAIETDN1T,2024-08-15,Primary Care,New,Completed,Referral,,1,21,M,539
+AIXCVTFHA,PHT2XZ52O,2024-10-06,Pediatrics,New,Completed,Referral,,0,58,F,537
+AKROWX4KK,P1G463SDY,2024-09-08,Dermatology,Follow-up,Completed,Referral,,0,47,F,537
+A1R6L5AKG,PTVV8Y5SI,2024-09-12,Cardiology,Follow-up,Completed,Organic,,0,67,F,545
+A06GKABCZ,PA27F8LWV,2025-06-15,Primary Care,New,Completed,Referral,,0,42,Other,543
+ALZM7ODTL,PTEIYZCOT,2025-05-29,Orthopedics,Follow-up,Completed,Referral,,0,52,F,541
+AK87N4UNF,PZUJ2XORV,2025-01-13,Orthopedics,New,Completed,Organic,,0,59,F,535
+AFQI1HF2Y,P53EGDD8M,2024-10-12,Primary Care,New,Completed,Organic,,0,0,F,535
+AKGICX7FN,PKZ40AQ15,2025-02-26,Orthopedics,Follow-up,Cancelled,Organic,,0,49,M,539
+ABA3VO6YV,PGYSPENGW,2025-07-08,Primary Care,Follow-up,Completed,Referral,,1,36,M,537
+APDKFEEKO,P3E54N6O9,2024-11-24,Primary Care,Follow-up,Completed,Referral,,0,48,M,541
+AT16MIGOV,P92TP6QAQ,2025-01-29,Orthopedics,Follow-up,Completed,Referral,,0,43,F,541
+AR9AHEMBH,PMVXPJ4HN,2024-08-24,Primary Care,New,Completed,Organic,,1,46,F,535
+A4VSK23AF,PJ3MUURMY,2024-11-25,Orthopedics,Follow-up,Completed,Referral,,0,58,Other,539
+APYBUXHWR,P07GBASF5,2025-06-03,Primary Care,Follow-up,Completed,Organic,,1,57,M,539
+ARVAXGUMD,P700UCRGB,2025-02-13,Primary Care,Follow-up,Completed,Organic,,0,73,F,537
+AF4NZKRSN,PT8CQ1XGB,2025-07-18,Cardiology,New,Cancelled,Referral,,1,54,F,537
+A8L0UW6IK,PC11ERTJ5,2025-06-03,Pediatrics,New,No-Show,Organic,,1,52,F,545
+A209EI8XQ,P4C6P1LLH,2025-07-07,Endocrinology,Follow-up,Completed,Referral,,0,28,F,539
+A6TCLK04P,PYXYUR4SO,2024-09-08,Pediatrics,Follow-up,Completed,Referral,,0,42,M,535
+A2EK1HW67,P92MTR6SN,2024-11-28,Pediatrics,New,No-Show,Referral,,0,31,F,535
+AY9PPPCGQ,PCTWJLSH3,2024-10-14,Oncology,Follow-up,Cancelled,Referral,,1,30,M,543
+A6PE2FDZL,PQWNRHZN4,2024-11-07,Primary Care,Follow-up,Completed,Referral,,0,47,M,541
+ATOCZCECE,PDBDW2PCN,2024-09-25,Pediatrics,Follow-up,Completed,Referral,,0,38,M,535
+ART7AWRPM,PRUPFLFCY,2025-04-21,Dermatology,Follow-up,Completed,Referral,,1,62,M,545
+AEHRTVCE3,P2M71HSSB,2025-05-28,Primary Care,Follow-up,Completed,Referral,,0,66,M,541
+ASKSO6DKF,PEFJAWSHM,2024-12-18,Orthopedics,New,Completed,Organic,,0,40,M,535
+ALAB0QM6U,PVHDK8LW2,2025-07-11,Primary Care,New,Completed,Referral,,1,75,Other,535
+AT6FIZHJM,P4M0A6MDM,2024-10-09,Cardiology,Follow-up,Completed,Organic,,1,57,F,541
+AXSNWER8Z,PLDC08FC0,2025-04-03,Orthopedics,New,Completed,Organic,,0,51,F,543
+ADXHYOU5M,PCRYSAUUJ,2024-09-16,Cardiology,New,Completed,Organic,,0,53,F,537
+AHSBDJ532,PMJDXO100,2024-12-09,Primary Care,Follow-up,Completed,Referral,,1,26,F,541
+AFPKP555N,PH1XJG2Y8,2025-02-24,Primary Care,New,Completed,Referral,,0,18,M,539
+A2R9LM86R,PKBRH7LAY,2024-09-07,Primary Care,New,Completed,Organic,,0,71,F,535
+A4YL1W9JP,PAUXBGK2W,2024-09-28,Pediatrics,New,Completed,Organic,,1,47,F,537
+AKPF3UZ3A,PD84U89YJ,2024-12-07,Primary Care,New,No-Show,Organic,,1,48,Unknown,541
+AOEAOEULT,P050UI22K,2025-06-10,Cardiology,Follow-up,No-Show,Organic,,0,32,F,543
+AMD3BPEQP,PBFFZZDVG,2024-09-02,Dermatology,New,No-Show,Organic,,0,44,F,543
+ARVILAP1J,PT1GHR09S,2024-12-12,Endocrinology,Follow-up,Completed,Referral,,0,48,F,539
+A55CUK5X6,PLU8WPFQ2,2025-06-24,Pediatrics,New,Completed,Referral,,0,36,M,539
+AG2KRT47Z,P1B0Z3NX3,2025-03-23,Primary Care,Follow-up,Completed,Referral,,0,40,F,539
+A0A690Q5N,PPTKEZJSS,2025-04-02,Primary Care,New,No-Show,Referral,,1,80,M,535
+A5KXQHXTD,PR778NRXV,2024-10-02,Cardiology,New,Completed,Referral,,0,46,F,541
+AQY89FIQ0,PGFLIJI18,2024-08-03,Orthopedics,Follow-up,Completed,Referral,,0,34,M,535
+AFCUZLZOO,PVV4ZWL3Z,2024-09-19,Primary Care,Follow-up,Completed,Referral,,1,19,M,543
+A0AHWY423,P7TW1PUWS,2025-02-06,Primary Care,Follow-up,Completed,Referral,,0,16,F,537
+APACE2F34,P1G983EP9,2024-10-06,Cardiology,Follow-up,Completed,Referral,,0,52,M,535
+A6ZSSJNJ8,PFFZ8Q4VH,2025-02-25,Dermatology,New,Completed,Organic,,0,51,M,537
+ATH1PQUA2,PPAC56T4U,2024-11-08,Primary Care,New,Completed,Referral,,0,11,F,535
+AF9TO0WZN,PBADLYPGG,2025-06-30,Orthopedics,Follow-up,Completed,Referral,,0,28,F,539
+A4XJ765VA,PWDCOKZ5S,2024-10-13,Endocrinology,New,Completed,Organic,,0,41,F,539
+A97KZB5FW,P3QSQCQ30,2024-08-04,Dermatology,Follow-up,Completed,Organic,,0,32,F,539
+A1DUHBX6A,P8TV4REAS,2025-03-20,Pediatrics,Follow-up,Completed,Organic,,0,71,F,535
+ADLOR2TYZ,PJ36TCFKJ,2025-01-05,Pediatrics,Follow-up,Completed,Referral,,0,83,Other,537
+AC5HSSX0B,PO4Z533ZS,2024-08-04,Orthopedics,Follow-up,Cancelled,Organic,,1,40,M,537
+AJCKJCO6M,PWHVNZH13,2024-10-13,Cardiology,Follow-up,Completed,Organic,,0,52,F,539
+AY4GWDSHL,P51OB537Q,2025-06-17,Primary Care,Follow-up,Completed,Referral,,0,38,M,537
+ALSHWA7SL,P1R11Q7UW,2024-10-25,Primary Care,Follow-up,Cancelled,Organic,,0,50,F,541
+AKD4QJD7B,PMQF7ZK94,2024-11-15,Primary Care,Follow-up,Completed,Organic,,1,28,F,537
+A52XOVYXH,PG8TACY15,2024-10-14,Endocrinology,Follow-up,Completed,Organic,,0,60,F,535
+AZPDSO9SP,POKEP7Y6W,2024-09-05,Orthopedics,Follow-up,Completed,Referral,,0,52,F,535
+ADU3NM0SX,P0LVSNUJZ,2025-02-18,Pediatrics,New,Completed,Organic,,0,33,F,537
+AFC5Z5L9H,P4M0A6MDM,2025-02-18,Cardiology,Follow-up,Completed,Organic,,1,57,F,541
+AGMTVPPFN,PQPGB7R3O,2025-03-06,Pediatrics,Follow-up,Completed,Referral,,1,52,F,535
+ANIIX1SKN,PZL15S74N,2025-07-10,Primary Care,New,Completed,Organic,,1,67,F,537
+AXD6ZMBYT,PCSG4OFDT,2025-07-20,Dermatology,New,Completed,Organic,,0,45,M,537
+AJPTVH31A,PV1ZOCFI4,2025-06-05,Primary Care,Follow-up,No-Show,Referral,,0,67,F,537
+A2MF3G1PU,PKRZD5E9P,2024-08-30,Cardiology,Follow-up,Completed,Organic,,0,79,F,543
+AXJCN0CL5,P7TW1PUWS,2025-02-05,Oncology,Follow-up,No-Show,Referral,,0,16,F,537
+ANKDI2QG6,PTMOFMMWI,2024-08-02,Primary Care,Follow-up,Completed,Referral,,0,65,M,539
+ATUQ54X1I,P1SWJCKJL,2024-11-02,Orthopedics,Follow-up,Completed,Organic,,2,40,F,545
+A5482Q78E,PWLXDSC4E,2025-07-09,Primary Care,New,Completed,Organic,,0,68,F,539
+A5SFE0X7H,PXAJI0Y6D,2024-11-23,Primary Care,New,Completed,Organic,,0,55,F,541
+A2CPCC3ZK,PYAR821UZ,2024-08-19,Primary Care,Follow-up,Completed,Organic,,0,60,F,545
+AGYR58MX4,PZUBLEKVL,2025-01-08,Dermatology,New,Completed,Organic,,0,33,M,541
+AYQQ14267,PQ3JZR25M,2025-03-08,Primary Care,New,No-Show,Organic,,0,68,M,535
+AYURNZP1O,PN9WSZV83,2024-11-05,Primary Care,Follow-up,Cancelled,Organic,,0,51,M,537
+AQKV0N4H2,PFLWDR3VW,2025-01-27,Cardiology,Follow-up,Completed,Referral,,0,44,M,535
+AAWNF3KEY,POS9XTOGN,2025-03-06,Pediatrics,New,Completed,Organic,,0,39,F,543
+AYN2W8G4U,PFFCXHGNZ,2025-04-22,Orthopedics,New,No-Show,Organic,,0,47,M,537
+A1IWAAYRI,PHIE9EDE1,2025-03-21,Primary Care,Follow-up,Completed,Organic,,0,67,F,545
+ABERXE6L0,PE9ZR3RZN,2025-07-07,Orthopedics,New,Cancelled,Referral,,1,36,M,535
+ADCZ6PBBO,PEAL2W37D,2025-02-06,Dermatology,Follow-up,Completed,Organic,,0,51,F,537
+AUZY46V57,P5IAN8ND7,2024-09-08,Pediatrics,New,Completed,Referral,,0,58,F,535
+AHLSZM6VD,PC37RLN36,2025-03-04,Oncology,New,Completed,Referral,,0,93,F,535
+AUQDJI6SO,PNVG5VMF6,2024-12-26,Pediatrics,Follow-up,Cancelled,Organic,,1,44,F,543
+AW4YIF5D9,PEJ31GYMD,2024-10-13,Dermatology,Follow-up,Completed,Organic,,0,55,F,535
+AREXPFSLT,P0S0R2SDS,2025-07-26,Primary Care,Follow-up,Completed,Organic,,0,18,F,537
+AJ669REA3,PEHVDO9KH,2025-02-25,Orthopedics,New,Completed,Referral,,0,72,F,535
+AY0XAOBK0,PGNZS43C5,2025-04-09,Primary Care,Follow-up,Completed,Organic,,0,22,F,543
+A2LVUMHF5,PXVHAGKC4,2024-10-08,Primary Care,Follow-up,Completed,Referral,,0,31,M,545
+AOX05ZHI6,PUB4O47EN,2024-10-02,Cardiology,New,Completed,Referral,,0,75,F,537
+A46NZ3HA6,PL48C1CQG,2025-03-28,Pediatrics,Follow-up,Completed,Organic,,0,43,F,541
+ACBB3VCPE,P9700LFQF,2024-11-17,Endocrinology,Follow-up,Completed,Referral,,0,43,F,539
+AA74TBS9I,PRRPZLK3E,2024-08-10,Oncology,Follow-up,Completed,Organic,,1,52,F,535
+AZKM5VGYW,POA2VCYWL,2025-05-07,Endocrinology,New,No-Show,Referral,,0,48,M,537
+AI7ZWPD1O,P050UI22K,2025-03-05,Primary Care,Follow-up,Completed,Referral,,0,32,F,543
+ATXS3FEWS,P4N89QKNS,2025-03-20,Primary Care,New,No-Show,Referral,,0,42,F,539
+AM91KQZJQ,PR6F7QNEZ,2025-05-06,Primary Care,Follow-up,Completed,Referral,,0,77,F,539
+AAMZC39BM,PNL63GAGU,2025-04-14,Dermatology,New,Completed,Referral,,1,71,F,545
+ATH2I5P7V,PPJA1WJ0T,2024-09-05,Pediatrics,New,Completed,Referral,,0,50,Other,543
+AWKFU90FP,PK9TR74QG,2025-06-11,Primary Care,New,Completed,Referral,,0,33,F,539
+AI90MB0OR,P36U8UEIH,2025-03-26,Primary Care,New,Completed,Referral,,0,65,M,541
+AR5SR5ET3,PVT997E4U,2025-07-08,Pediatrics,New,Completed,Organic,,1,57,M,543
+AH7PSXMDX,PV80LKX1S,2025-02-27,Primary Care,Follow-up,Completed,Referral,,0,60,M,535
+A52F7GFPP,P5LXO6QJI,2025-02-03,Primary Care,Follow-up,Completed,Referral,,0,56,F,543
+ASYAZHXDO,P4V1QX8ER,2024-12-10,Cardiology,New,Completed,Referral,,1,58,F,537
+A3GTXYZ8A,PC2GUWJP0,2025-02-23,Dermatology,Follow-up,Completed,Referral,,0,28,M,537
+AKV3UDLWR,PPPBMQIYF,2025-05-03,Pediatrics,New,Completed,Organic,,0,50,F,543
+AFLVRKTGU,P0LZJJEGE,2024-08-26,Primary Care,Follow-up,Completed,Referral,,0,41,M,541
